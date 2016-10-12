@@ -1,0 +1,82 @@
+#product {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+#pay {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.prod {
+	text-decoration: none;
+	
+	float: left;
+	margin-left: 60px;
+	padding-left: 10px;
+	width: 350px;
+	height: 100px;
+	margin-top: 20px;
+	border: 1px ridge;
+  	padding-top: 250px;
+}
+
+.info {
+	padding-top: 30px;
+	padding-left: 5px;
+}
+
+.info span {
+	padding-left: 5px;
+}
+.choose {
+padding-top: 10px;
+}
+
+.choose .rem{
+	float: left;
+	padding-right: 10px;
+}
+.take-it{
+	height: 40px;
+}
+
+.take-it span input{
+	width: 40px;
+}
+
+#pay {
+	padding-top: 60%;
+	padding-left: 45%;
+	padding-bottom: 5%;
+}
+
+#pay input {
+	padding: 10px 50px 10px 50px;
+	font-size: 20px;
+	background-image: url("carrello.png");
+	background-repeat: no-repeat;
+	
+}
+
+#take {
+	background-image: url("carrello.png");
+	background-repeat: no-repeat;
+	width: 45px;
+	height: 35px;
+}
+
+.noCard
+{
+	float: left;
+	margin-left: 6%;
+}
+.noAddress
+{
+	margin-left: 6%;
+	float: left;
+	margin-bottom: 4%;
+
+}
+h1 {
+	padding-left: 20px;
+}
+

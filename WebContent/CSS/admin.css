@@ -1,0 +1,57 @@
+#adm {
+	padding-top: 20px;
+	padding-left: 20px;
+	float: left;
+}
+
+#add {
+	
+	width: 600px;
+	float: left;
+	
+}
+/*#add input ,text{ 
+	float: right;
+	margin-right: 150px
+   	 
+}*/
+
+
+#add h3 {
+	text-align: center;
+}
+
+#rem {
+	width: 700px;
+  	height: 700px;
+	float: left;
+	border-left: 1px solid;
+	padding-left: 20px;
+}
+
+#rem h3 {
+	text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+	#pay {
+		font-size: 13px;
+	}
+	
+	#add {
+		font-size: 15px;
+		width: 300px;
+		float: none;
+	}
+	#rem {
+		
+		font-size: 15px;
+		width: 300px;
+		border: none;
+		border-top: 1px solid;
+	}
+	
+	.canc {
+		padding-bottom: 20px;
+	}
+}

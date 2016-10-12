@@ -1,0 +1,76 @@
+#info ul{
+	list-style-type: none;
+	font-family: Verdana, sans-serif;
+	
+	
+}
+#info ul li{
+	padding-top: 5px;
+	
+}
+#info {
+	padding-bottom: 200px;
+}
+
+#uimm {
+	float: left;
+}
+
+#product {
+	padding-bottom: 400px;
+}
+
+.anima span{
+	padding-left: 70px;
+}
+
+.anime a {
+	padding-left: 10px;
+}
+
+.prod {
+	text-decoration: none;
+	border: none;
+	border: 1px ridge;
+	float: left;
+	margin-left: 60px;
+	padding-left: 10px;
+	width: 250px;
+	height: 300px;
+	margin-top: 20px;
+}
+
+.name {
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+	float: left;
+	margin-right: 7px;
+	padding-top: 170px;
+}
+.band {
+	padding-top: 170px;
+	float: left;
+	margin-right: 7px;
+}
+.use {
+	padding-top: 170px;
+}
+#square {
+	border-collapse: collapse;
+	padding-left: 10px;
+	padding-top: 40px;
+	
+}
+
+#feedback {
+	text-align: center;
+}
+
+#feedback textarea{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.comment {
+	
+}

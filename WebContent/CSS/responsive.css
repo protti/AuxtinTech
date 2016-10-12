@@ -1,0 +1,48 @@
+#page{
+	max-width:100%;
+}
+
+
+footer {
+  	width: 100%;
+  	clear: both;
+    position: absolute;
+}
+
+
+/* Nos media queries */
+@media screen and (max-width: 1000px) {
+
+	#bar1, #bar2{
+		width:39%;	
+	}
+
+	.sidebar {
+		float: left;
+		margin: 0 0 20px 1%;
+		padding: 0;   
+	}     
+}
+
+@media screen and (max-width: 540px) {
+	
+	#bar1, #bar2 {
+		clear:both;
+		width:100%;	
+	}
+	
+	.sidebar{
+		float: left;
+		margin: 0 0 20px 1%;
+		padding: 0;   
+	}
+	
+	#content {
+		clear:both;
+		width:100%;	
+	}
+	
+	#content .bloc {
+		margin:0;
+	}	
+}

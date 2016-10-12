@@ -1,0 +1,73 @@
+/*#home{
+	border: 2px ridge;
+	border-radius: 25px;
+	background-image: url(image/sblu.gif);
+}*/
+
+body {
+	background-image: url(image/tema.jpg);
+	background-repeat: no-repeat;
+	
+}
+.center{
+	text-align: center;
+}
+
+.welcome {
+	padding: 350px 15px 180px 90px;
+	font-family: serif;
+	text-align: center;
+	margin-left: 27%;
+	margin-right: 25%;
+	
+}
+
+.login{
+	paddin-right: 24%;
+	
+}
+
+#down {
+	padding-top: 20px;	
+}
+
+#submit {
+	margin-top: ;
+	background: none;
+	border: solid 1px;
+	border-radius: 10px;
+	
+	color: #190502;
+	background-color: #111c71;
+}
+#submit:hover {
+	background-color: #5e4ad5;
+}
+.welcome label, a {
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+.email {
+	border-radius: 20px;
+}
+.pass {
+	border-radius: 20px;
+}
+
+#p {
+	padding-top: 10px;
+}
+
+#reg {
+	
+	padding-top: 0,5%;
+	padding-left: 16%;
+	position: absolute;
+	
+}
+
+#reg a {
+	text-decoration: none;
+	color: #09165d;
+}

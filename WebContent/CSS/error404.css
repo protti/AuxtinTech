@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	padding-right: 400px;
+	padding-left: 350px;
+	font-size: 30px;
+	color: #6DBCDB;
+	pasotion: absolute;
+	z-index: 100;
+	
+}
